@@ -1,3 +1,6 @@
 [submodule "SequentailExeUsingDocker"]
 	path = SequentailExeUsingDocker
 	url = https://github.com/vishalsingh17/SequentailExeUsingDocker.git
+[submodule "FirstDAG"]
+	path = FirstDAG
+	url = https://github.com/vishalsingh17/FirstDAG.git
